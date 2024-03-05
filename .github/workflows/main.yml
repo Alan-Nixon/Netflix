@@ -20,4 +20,4 @@ deploy:
     - echo "Deploying the project..."
     # Add commands to deploy your project here
   only:
-    - master  # Deploy only when changes are pushed to the master branch
+    - main
